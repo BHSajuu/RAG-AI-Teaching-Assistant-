@@ -1,0 +1,11 @@
+You're having trouble understanding how flexbox works in CSS.
+
+Flexbox is indeed discussed later on in the course, starting from video number 14. 
+
+In video 13, it's actually about other HTML topics such as Flexbox Grid etc., but that's not where you'll learn about flexbox specifically.
+
+If you want to understand more about how flexbox works, I recommend watching video 18 of our course, which is the 3rd part of the CSS Box Model lessons. 
+
+Specifically, you can find an explanation of how flexbox works at timestamp 412 seconds into that video, and also around 708 seconds in.
+
+If you have any more questions about flexbox or anything else related to this topic, feel free to ask!
